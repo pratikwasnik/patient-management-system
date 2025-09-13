@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS Sourcecode\\PatientManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\middleware\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\middleware\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|tests\\PatientManagement.Tests\\PatientManagement.Tests.csproj|d:\\vs sourcecode\\patientmanagementsystem\\tests\\patientmanagement.tests\\services\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|tests\\PatientManagement.Tests\\PatientManagement.Tests.csproj|solutionrelative:tests\\patientmanagement.tests\\services\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\validators\\patientcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\validators\\patientcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\validators\\patientupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\validators\\patientupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\dtos\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\dtos\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\dtos\\patientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\dtos\\patientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|d:\\vs sourcecode\\patientmanagementsystem\\src\\patientmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\PatientManagement.API\\PatientManagement.API.csproj|solutionrelative:src\\patientmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientCreateDtoValidator.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Validators\\PatientCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Validators\\PatientCreateDtoValidator.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Validators\\PatientCreateDtoValidator.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Validators\\PatientCreateDtoValidator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:54:59.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientUpdateDtoValidator.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Validators\\PatientUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Validators\\PatientUpdateDtoValidator.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Validators\\PatientUpdateDtoValidator.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Validators\\PatientUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:56:43.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\appsettings.json",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\appsettings.json",
+              "RelativeToolTip": "src\\PatientManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T12:58:50.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Program.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Program.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:12:13.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientServiceTests.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\tests\\PatientManagement.Tests\\Services\\PatientServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\PatientManagement.Tests\\Services\\PatientServiceTests.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\tests\\PatientManagement.Tests\\Services\\PatientServiceTests.cs",
+              "RelativeToolTip": "tests\\PatientManagement.Tests\\Services\\PatientServiceTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:59:22.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:57:26.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Services\\PatientService.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Services\\PatientService.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Services\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:57:42.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Services\\IPatientService.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Services\\IPatientService.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Services\\IPatientService.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Services\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:53:40.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Repositories\\PatientRepository.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:42:52.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Repositories\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Repositories\\IPatientRepository.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Repositories\\IPatientRepository.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Repositories\\IPatientRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:45:31.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Models\\Patient.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Models\\Patient.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:45:09.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientUpdateDto.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\DTOs\\PatientUpdateDto.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\DTOs\\PatientUpdateDto.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\DTOs\\PatientUpdateDto.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\DTOs\\PatientUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:08:39.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientCreateDto.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\DTOs\\PatientCreateDto.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\DTOs\\PatientCreateDto.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\DTOs\\PatientCreateDto.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\DTOs\\PatientCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:20:48.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:37:28.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\PatientManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T07:29:51.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\PatientManagement.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\VS Sourcecode\\PatientManagementSystem\\src\\PatientManagement.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\PatientManagement.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-11T06:25:53.181Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
